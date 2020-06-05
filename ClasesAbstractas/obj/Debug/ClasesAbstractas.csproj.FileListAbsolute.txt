@@ -1,0 +1,7 @@
+D:\PROYECTOS\ClasesAbstractas\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+D:\PROYECTOS\ClasesAbstractas\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\ClasesAbstractas\ClasesAbstractas\bin\Debug\ClasesAbstractas.exe.config
+D:\PROYECTOS\ClasesAbstractas\ClasesAbstractas\bin\Debug\ClasesAbstractas.exe
+D:\PROYECTOS\ClasesAbstractas\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+D:\PROYECTOS\ClasesAbstractas\ClasesAbstractas\obj\Debug\ClasesAbstractas.exe
+D:\PROYECTOS\ClasesAbstractas\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
